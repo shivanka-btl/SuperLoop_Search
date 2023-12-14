@@ -225,7 +225,7 @@ class IntegrationAutosuggest extends Component {
           {...autosuggestProps}
           inputProps={{
             classes,
-            placeholder: 'Search',
+            placeholder: 'Search Country',
             value: this.state.single,
             onChange: this.handleChange('single')
           }}

@@ -60,7 +60,7 @@ class Dashboard extends React.Component {
                 <CardIcon color="info">
                   <Icon>explore</Icon>
                 </CardIcon>
-                <p className={classes.cardCategory}>Countries</p>
+                <p className={classes.cardCategory}>Country</p>
                 <h3 className={classes.cardTitle}>{countryDetails[0] ? countryDetails[0].name : ''}</h3>
               </CardHeader>
               <CardFooter stats>
