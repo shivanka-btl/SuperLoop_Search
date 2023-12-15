@@ -17,6 +17,7 @@ Integrated the Redux to manage the State system wide in a simplify structure ( R
 * [Documentation](#documentation)
 * [File Structure](#file-structure)
 * [Browser Support](#browser-support)
+* [Screenshots](#screenshots)
 
 
 ## Versions
@@ -163,3 +164,8 @@ material-dashboard-react
 At present, we officially aim to support the last two versions of the following browsers:
 
 <img src="src/assets/github/chrome.png" width="64" height="64"> <img src="src/assets/github/firefox.png" width="64" height="64"> <img src="src/assets/github/edge.png" width="64" height="64"> <img src="src/assets/github/safari.png" width="64" height="64"> <img src="src/assets/github/opera.png" width="64" height="64">
+
+
+## Screenshots
+<img src="Screenshot_01.png" width="100%" height="100%">
+<img src="Screenshot_02.png" width="100%" height="100%">
